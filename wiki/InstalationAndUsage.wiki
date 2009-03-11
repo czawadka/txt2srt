@@ -3,7 +3,7 @@
 = Instalation =
   * Install Java (at least 1.5)
   * Download txt2srt.jar and store it as eg. c:\tools\txt2srt\txt2srt.jar
-  * In 'Send To' folder for given user (eg. C:\Documents and Settings\Administrator\SendTo) create shortcut with command `java -jar c:\tools\txt2srt\txt2srt.jar` and name 'txt2srt'.
+  * In 'Send To' folder for given user (eg. C:\Documents and Settings\Administrator\SendTo) create shortcut with command `java -jar c:\tools\txt2srt\txt2srt.jar` and then name it as 'txt2srt'.
 
 If needed txt2srt is using [http://sourceforge.net/project/showfiles.php?group_id=86862&package_id=90612 MediaInfo CLI] to detect frame rate. MediaInfo CLI has to be accessible from PATH.
 
