@@ -1,6 +1,6 @@
 #summary How to use txt2srt
 
-= Instalation =
+= Installation =
   * Install Java (at least 1.5)
   * Download txt2srt.jar and store it as eg. c:\tools\txt2srt\txt2srt.jar
   * In 'Send To' folder for given user (eg. C:\Documents and Settings\Administrator\SendTo) create shortcut with command `java -jar c:\tools\txt2srt\txt2srt.jar` and then name it as 'txt2srt'.
