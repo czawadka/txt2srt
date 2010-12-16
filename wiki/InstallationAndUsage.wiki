@@ -1,4 +1,5 @@
 #summary How to use txt2srt
+#labels Featured
 
 = Installation =
   * Install Java (at least 1.5)
